@@ -8,3 +8,4 @@
 8.Setup video call.
 9.Add auto battery saver
 10.Auto Light correction on.
+11.Screen Lock in 3 min's when not in use.
